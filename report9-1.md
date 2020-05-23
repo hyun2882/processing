@@ -1,9 +1,9 @@
 /* 메모리에 두 수를 저장하고 사칙연산을 하는 함수기반 프로그램 */
 
-#include <stdio.h> 
-float add(float i, float j){ // 덧셈 함수
-	return i + j;
-}
+#include <stdio.h>   
+float add(float i, float j){ // 덧셈 함수  
+	return i + j;  
+}  
 float minus(float i, float j){ // 뺄셈 함수
 	return i - j;\n
 }
