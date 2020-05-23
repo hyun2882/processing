@@ -1,6 +1,9 @@
-// 주사위를 6,000회 던질 때 1부터 6이 나올 확률
-#include<stdio.h>
-#include<time.h>
+/* 주사위를 6,000회 던질 때 1부터 6이 나올 확률 */
+
+
+#include <stdio.h>
+#include <time.h>
+
 int main(void){
 	int i, n;
 	int h[6]={};
